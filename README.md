@@ -7,4 +7,4 @@
 
 ✏️ Edit and update contact details
 
-❌ Delete unwanted contacts
+❌ Delete unwanted contacts.
